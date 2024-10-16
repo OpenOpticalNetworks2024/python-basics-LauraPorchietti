@@ -1,5 +1,6 @@
 """Exercise Set 1: Python Basics"""
 
+
 import numpy as np
 import matplotlib as plt
 
@@ -69,6 +70,7 @@ def exercise12():
 
 if __name__ == "__main__":
     print("EXERCISE SET 1")
+    print("Hello World")
     print("EX1")
     exercise1()
     print("EX2")
