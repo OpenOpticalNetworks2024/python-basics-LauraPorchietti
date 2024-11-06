@@ -10,7 +10,7 @@ import matplotlib as plt
 
 # ex1
 def exercise1():
-    pass
+    print("exercise 1")
 
 
 # ex2
