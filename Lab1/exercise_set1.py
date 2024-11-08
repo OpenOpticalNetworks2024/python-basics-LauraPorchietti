@@ -15,7 +15,7 @@ def exercise1():
 
 # ex2
 def exercise2():
-    pass
+    print("Exercise 2")
 
 
 # ex3
